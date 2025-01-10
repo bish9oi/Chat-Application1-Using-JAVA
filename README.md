@@ -7,6 +7,7 @@ This project is a chat application built using Java and Socket Programming, mimi
 Features:-
 
 1.Real-Time Messaging: Exchange messages between client and server in real time.
+
 2.Graphical User Interface: Intuitive and user-friendly GUI.    
 3.Timestamped Messages: Each message is displayed with its timestamp.   
 4.Active Status Display: Shows the active status of users.
@@ -15,7 +16,9 @@ Prerequisites:-
 
 
 1.To run this application, ensure you have:
+
 2.Java Development Kit (JDK) installed (version 8 or later).
+
 3.A basic understanding of Java Swing and Socket Programming.
 
 
