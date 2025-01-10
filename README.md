@@ -26,17 +26,20 @@ Socket Communication
 The application uses Sockets to establish communication between the client and the server:
 
 1. Server
-Listens for incoming client connections on a specified port.
-Receives messages from the client and sends responses back.
+a.Listens for incoming client connections on a specified port.
+b.Receives messages from the client and sends responses back.
 
 2. Client
-Connects to the server via its IP address and port.
-Sends messages to the server and displays responses.
+a.Connects to the server via its IP address and port.
+b.Sends messages to the server and displays responses.
 
 Application GUI
 
 1.The user interface is created using Swing, which includes:
+
 2.Panels for structuring the layout.
+
 3.JLabels for displaying user details, messages, and timestamps.
+
 4.JTextField for inputting text messages.
 5.JButton for sending messages.
