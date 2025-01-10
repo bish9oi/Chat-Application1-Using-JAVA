@@ -1,6 +1,5 @@
 Chat Application in Java
 
-
 Overview:-
         This project is a chat application built using Java and Socket Programming, mimicking the basic functionality of WhatsApp. The application facilitates real-time communication between a Client and a Server with a graphical user interface (GUI) developed using Swing.
 
@@ -27,6 +26,34 @@ Prerequisites:-
                                    a.Connects to the server via its IP address and port.
                                     b.Sends messages to the server and displays responses.
                                     ![Application Image](https://github.com/user-attachments/assets/ae5f06da-e25d-41cf-8f1c-c26f412650f9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  GUI:-
     The user interface is created using Swing, which includes:
