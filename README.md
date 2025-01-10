@@ -25,7 +25,24 @@ Prerequisites:-
                            2.Client:
                                    a.Connects to the server via its IP address and port.
                                     b.Sends messages to the server and displays responses.
-                                    ![Application Image](https://github.com/user-attachments/assets/ae5f06da-e25d-41cf-8f1c-c26f412650f9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+![Application Image](https://github.com/user-attachments/assets/ae5f06da-e25d-41cf-8f1c-c26f412650f9)
 
 
 
