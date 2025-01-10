@@ -4,17 +4,11 @@ Overview
 
 This project is a chat application built using Java and Socket Programming, mimicking the basic functionality of WhatsApp. The application facilitates real-time communication between a Client and a Server with a graphical user interface (GUI) developed using Swing.
 
-Features
-
-Real-Time Messaging: Exchange messages between client and server in real time.
-
-Graphical User Interface: Intuitive and user-friendly GUI.
-
-Timestamped Messages: Each message is displayed with its timestamp.
-
-Active Status Display: Shows the active status of users.
-
-Minimalistic Design: Compact and clutter-free design inspired by WhatsApp.
+Features:-
+       1.Real-Time Messaging: Exchange messages between client and server in real time.
+       2.Graphical User Interface: Intuitive and user-friendly GUI.
+       3.Timestamped Messages: Each message is displayed with its timestamp.
+       4.Active Status Display: Shows the active status of users.
 
 Prerequisites
 
